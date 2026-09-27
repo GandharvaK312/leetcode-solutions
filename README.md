@@ -1,6 +1,6 @@
 # LeetCode Solutions Portfolio
 
-**Name:** Gandharva C Kulkarni
+**Name:** Gandharva C Kulkarni  
 **SRN:** R25EJ034  
 
 Personal LeetCode practice log - part of B25GE0101 portfolio
@@ -23,7 +23,7 @@ This repository is structured by topic to track my progress across different dat
 * `07-move-zeroes.c` - Two Pointers (In-place Array Manipulation)
 
 ### 3. [Stacks](./stacks/)
-* *(Reserved for future practice)*
+* `08-valid-parentheses.c` - Stack Data Structure
 
 ### 4. [Linked Lists](./linked-lists/)
-* *(Reserved for future practice)*
+* `09-reverse-linked-list.c` - Iterative Pointer Manipulation

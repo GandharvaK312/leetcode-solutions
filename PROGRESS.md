@@ -12,6 +12,7 @@ This log tracks my growth and speed in problem-solving over time.
 | 16/09/2026 | Binary Search | Basic Algorithms | Easy-Medium | ☑ Solved | 12 min |
 | 16/09/2026 | Move Zeroes | Basic Algorithms | Easy-Medium | ☑ Solved | 15 min |
 | 16/09/2026 | Valid Parentheses | Stacks | Easy-Medium | ☑ Solved | 25 min |
+| 27/09/2026 | Reverse Linked List | Linked Lists | Easy | ☑ Solved | 20 min |
 
 ---
 *Note: This table will be updated consistently throughout the semester as a visible growth log.*
